@@ -1,0 +1,5 @@
+C:\Data\Training\Javascript\LearningProjects\ToDoList\ToDoList\bin\ToDoList.dll
+C:\Data\Training\Javascript\LearningProjects\ToDoList\ToDoList\bin\ToDoList.pdb
+C:\Data\Training\Javascript\LearningProjects\ToDoList\ToDoList\obj\Debug\ToDoList.csprojResolveAssemblyReference.cache
+C:\Data\Training\Javascript\LearningProjects\ToDoList\ToDoList\obj\Debug\ToDoList.dll
+C:\Data\Training\Javascript\LearningProjects\ToDoList\ToDoList\obj\Debug\ToDoList.pdb
